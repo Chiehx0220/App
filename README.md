@@ -1,2 +1,2 @@
 # Chieh's App Collection
-The apps for my personal use
+Some applications released by others that I personally use on a daily basis.
